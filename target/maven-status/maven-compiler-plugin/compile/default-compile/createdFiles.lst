@@ -1,0 +1,6 @@
+org\leandro\CommandLineArgsValidator.class
+org\leandro\GpsImageFileVisitor.class
+org\leandro\HtmlWriter.class
+org\leandro\CsvWriter.class
+org\leandro\GpsImageUtility.class
+org\leandro\OutputWriter.class
